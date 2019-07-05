@@ -1,1 +1,4 @@
 # projectA
+*ECMAScript
+*BOM
+*DOM
